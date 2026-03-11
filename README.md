@@ -1,16 +1,35 @@
 ## Hi there 👋
 
-<!--
-**saf-safuvan/saf-safuvan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Iam Muhammed Safuvan
 
-Here are some ideas to get you started:
+Cybersecurity and Digital Forensics enthusiast with hands-on experience in penetration testing, network security, SOC monitoring, and incident investigation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Digital Forensics
+- Network Security
+- Penetration Testing
+- Security Monitoring (SOC)
+- Log Analysis
+- Python Automation
+
+## Tools
+- Kali Linux
+- Burp Suite
+- Nmap
+- Wireshark
+- Metasploit
+- Splunk
+- ELK Stack
+- Wazuh
+- Frida
+
+## Projects
+- Digital Forensics Hash Tool
+- SOC Log Analyzer
+- Python Port Scanner
+- Packet Sniffer
+- Brute Force Detector
+- Threat Detection Engine
+
+## Contact
+LinkedIn: https://linkedin.com/in/muhammedsafuvan
