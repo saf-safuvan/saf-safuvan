@@ -28,10 +28,6 @@ Cybersecurity and Digital Forensics enthusiast with hands-on experience in **SOC
 
 ---
 
-## Security Tools & Technologies
-
----
-
 ## Security Tools
 
 * Kali Linux
@@ -64,23 +60,6 @@ Cybersecurity and Digital Forensics enthusiast with hands-on experience in **SOC
 * Cisco Certified Network Associate (CCNA) – Enterprise Networking, Security & Automation
 * PCAP – Programming Essentials in Python
 * Cisco – Cybersecurity Essentials
-
----
-
-## Currently Learning
-
-* Advanced SOC Threat Detection
-* SIEM Log Analysis
-* Malware Analysis
-* Threat Intelligence & Incident Response
-
----
-
-## GitHub Stats
-
----
-
-## Contribution Graph
 
 ---
 
