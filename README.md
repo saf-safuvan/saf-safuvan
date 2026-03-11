@@ -1,6 +1,6 @@
 # Hi there 👋
 
-# I am Muhammed Safuvan
+# Iam Muhammed Safuvan
 
 Cybersecurity and Digital Forensics enthusiast with hands-on experience in **SOC monitoring, threat detection, network security, penetration testing, and incident response**. Passionate about analyzing security logs, detecting cyber attacks, and building **Python-based security automation tools** for digital forensics and network security.
 
