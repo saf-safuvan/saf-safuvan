@@ -2,8 +2,7 @@
 
 # I am Muhammed Safuvan
 
-Cybersecurity and Digital Forensics enthusiast with hands-on experience in **SOC monitoring, threat detection, network security, penetration testing, and incident response**.
-Passionate about analyzing security logs, detecting cyber attacks, and building **Python-based security automation tools** for digital forensics and network security.
+Cybersecurity and Digital Forensics enthusiast with hands-on experience in **SOC monitoring, threat detection, network security, penetration testing, and incident response**. Passionate about analyzing security logs, detecting cyber attacks, and building **Python-based security automation tools** for digital forensics and network security.
 
 ---
 
@@ -15,6 +14,21 @@ Passionate about analyzing security logs, detecting cyber attacks, and building 
 * Digital Forensics
 * Penetration Testing
 * Python Security Automation
+
+---
+
+## Cybersecurity Domains
+
+* SOC Monitoring
+* Threat Detection
+* Network Traffic Analysis
+* Digital Forensics Investigation
+* Penetration Testing
+* Security Automation
+
+---
+
+## Security Tools & Technologies
 
 ---
 
@@ -40,6 +54,33 @@ Passionate about analyzing security logs, detecting cyber attacks, and building 
 * **Python Port Scanner** – TCP port scanner for network reconnaissance
 * **Digital Forensics Hash Tool** – Generates and verifies cryptographic hashes for forensic investigations
 * **Threat Detection Engine** – Python-based detection system for identifying suspicious patterns in logs
+
+---
+
+## Certifications
+
+* Cisco Certified Network Associate (CCNA) – Introduction to Networks
+* Cisco Certified Network Associate (CCNA) – Switching, Routing & Wireless Essentials
+* Cisco Certified Network Associate (CCNA) – Enterprise Networking, Security & Automation
+* PCAP – Programming Essentials in Python
+* Cisco – Cybersecurity Essentials
+
+---
+
+## Currently Learning
+
+* Advanced SOC Threat Detection
+* SIEM Log Analysis
+* Malware Analysis
+* Threat Intelligence & Incident Response
+
+---
+
+## GitHub Stats
+
+---
+
+## Contribution Graph
 
 ---
 
