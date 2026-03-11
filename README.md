@@ -2,17 +2,17 @@
 
 # Iam Muhammed Safuvan
 
-Cybersecurity and Digital Forensics enthusiast with hands-on experience in penetration testing, network security, SOC monitoring, and incident investigation.
+Cybersecurity and Digital Forensics enthusiast with hands-on experience in SOC monitoring, threat detection, network security, penetration testing, and incident response. Passionate about analyzing security logs, detecting attacks, and building security automation tools using Python.
 
 ## Skills
+- Security Operations Center (SOC)
+- Threat Detection & Log Analysis
+- Network Security & Traffic Analysis
 - Digital Forensics
-- Network Security
 - Penetration Testing
-- Security Monitoring (SOC)
-- Log Analysis
-- Python Automation
+- Python Security Automation
 
-## Tools
+## Security Tools
 - Kali Linux
 - Burp Suite
 - Nmap
@@ -28,7 +28,6 @@ Cybersecurity and Digital Forensics enthusiast with hands-on experience in penet
 - SOC Log Analyzer
 - Python Port Scanner
 - Packet Sniffer
-- Brute Force Detector
 - Threat Detection Engine
 
 ## Contact
