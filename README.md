@@ -23,12 +23,13 @@ Cybersecurity and Digital Forensics enthusiast with hands-on experience in SOC m
 - Wazuh
 - Frida
 
-## Projects
-- Digital Forensics Hash Tool
-- SOC Log Analyzer
-- Python Port Scanner
-- Packet Sniffer
-- Threat Detection Engine
+## Featured Projects
+- **SOC Attack Detector** – Python tool that detects brute-force attacks from authentication logs
+- **SOC Log Analyzer** – Log analysis tool for identifying suspicious login activity
+- **Packet Sniffer** – Network traffic monitoring tool using Scapy
+- **Python Port Scanner** – TCP port scanner for network reconnaissance
+- **Digital Forensics Hash Tool** – Generates and verifies cryptographic hashes for forensic investigations
+- **Threat Detection Engine** – Python-based detection system for identifying suspicious patterns in logs
 
 ## Contact
 LinkedIn: https://linkedin.com/in/muhammedsafuvan
